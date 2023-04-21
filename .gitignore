@@ -1,3 +1,6 @@
+.DS_Store
+#맥북 DS_Store 파일 숨기기
+
 # Miscellaneous
 *.class
 *.log
